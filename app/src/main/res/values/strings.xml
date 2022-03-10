@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">GitHub User\'s</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="company_name">Company</string>
+    <string name="location_name">Location</string>
+    <string name="follow_button">Follow</string>
+    <string name="followers_number">0</string>
+    <string name="followers">Followers</string>
+    <string name="following_number">0</string>
+    <string name="following">Following</string>
+    <string name="share">Share</string>
+    <string name="repositories">Repositories</string>
+
+    <string-array name="data_name">
+        <item>Arataki Itto</item>
+        <item>Raiden Shogun</item>
+        <item>Kamisato Ayato</item>
+        <item>Zhongli</item>
+        <item>Bennet</item>
+        <item>Kaeya</item>
+        <item>Xingqiu</item>
+        <item>Gojou Satoru</item>
+        <item>Ryoumen Sukuna</item>
+        <item>Toji Fushiguro</item>
+    </string-array>
+
+    <string-array name="data_username">
+        <item>taki_itto</item>
+        <item>baal_op</item>
+        <item>kami_yato</item>
+        <item>li198</item>
+        <item>ben_net23</item>
+        <item>kaeya_sheesh</item>
+        <item>xing221</item>
+        <item>flexing_gojou</item>
+        <item>ryo_sukuna26</item>
+        <item>tojifushiguro</item>
+    </string-array>
+
+    <string-array name="data_company">
+        <item>PT. Hoyoverse</item>
+        <item>Google LLC</item>
+        <item>PT. Mihoyo</item>
+        <item>Google LLC</item>
+        <item>PT. Hoyoverse</item>
+        <item>PT. Mihoyo</item>
+        <item>Google LLC</item>
+        <item>Mappa Studio</item>
+        <item>Mappa Studio</item>
+        <item>Mappa Studio</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Berlin, Germany</item>
+        <item>New York, USA</item>
+        <item>Tokyo, Japan</item>
+        <item>California, USA</item>
+        <item>Beijing, China</item>
+        <item>Beijing, China</item>
+        <item>Texas, USA</item>
+        <item>Kyoto, Japan</item>
+        <item>Ehime, Japan</item>
+        <item>Tokyo, Japan</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/arataki_itto</item>
+        <item>@drawable/raiden_shogun</item>
+        <item>@drawable/kamisato_ayato</item>
+        <item>@drawable/zhongli</item>
+        <item>@drawable/bennet</item>
+        <item>@drawable/kaeya</item>
+        <item>@drawable/xingqiu</item>
+        <item>@drawable/gojou_satoru</item>
+        <item>@drawable/ryoumen_sukuna</item>
+        <item>@drawable/toji_fushiguro</item>
+    </integer-array>
+
+    <string-array name="data_followers">
+        <item>10.8M</item>
+        <item>3M</item>
+        <item>129K</item>
+        <item>100M</item>
+        <item>5.6M</item>
+        <item>2.3M</item>
+        <item>15.7M</item>
+        <item>200M</item>
+        <item>150M</item>
+        <item>1.5M</item>
+    </string-array>
+
+    <string-array name="data_following">
+        <item>10</item>
+        <item>0</item>
+        <item>200</item>
+        <item>0</item>
+        <item>1.000</item>
+        <item>500</item>
+        <item>200</item>
+        <item>5</item>
+        <item>0</item>
+        <item>300</item>
+    </string-array>
+
+    <string-array name="data_repositories">
+        <item>500 Repositories</item>
+        <item>6.7k Repositories</item>
+        <item>10k Repositories</item>
+        <item>250 Repositories</item>
+        <item>700 Repositories</item>
+        <item>2.5k Repositories</item>
+        <item>2.6k Repositories</item>
+        <item>700 Repositories</item>
+        <item>456 Repositories</item>
+        <item>298 Repositories</item>
+    </string-array>
+</resources>
